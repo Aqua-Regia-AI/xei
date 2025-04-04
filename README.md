@@ -11,3 +11,15 @@ In order to download models, you can go ahead and download them from our [Ollama
 ## The Platform 
 
 The platform is available at [chat.aquaregiai.com](https://chat.aquaregiai.com) and after signing up, you'll be able to access 671B model. Remember that the models are mostly made to be able to run on consumer GPU. 
+
+## Models
+
+| Model | Architecture | Multilignual |
+| :----:| :------------:|:-----------:|
+| `0.1b` | LLaMA         | 🔴          |
+| `0.5b` | Qwen          | 🟠          |
+| `2b`   | Gemma2        | 🟢          |
+| `8b`   | Command-R     | 🟢          |
+| `32b`  | Command-R     | 🟢          |
+| `100b` | Command-R     | 🟢          |
+| `671b` | DeepSeek V2   | 🟢          |
