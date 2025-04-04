@@ -5,3 +5,5 @@ __Xei__ (Persian: شیء or زِی) is a "family" of AI models trained on day to
 The models are trained on different bases with different structures and one of the goals of making these models was to make users able to run most of these locally. 
 
 ## Download Models
+
+In order to download models, you can go ahead and download them from our [Ollama](https://ollama.com/haghiri/xei) repository. Also if you want to run 100B or 671B models, we've provided a script to run it on modal which can be accessible [here](https://github.com/aqua-regia-ai/modal). 
