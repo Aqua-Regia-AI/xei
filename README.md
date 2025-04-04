@@ -25,3 +25,9 @@ The platform is available at [chat.aquaregiai.com](https://chat.aquaregiai.com) 
 | `671b` | DeepSeek V2   | 🟢          |
 
 ## License
+
+Most of the usage is licensed under _Apache 2.0_ but if you're in a direct affiliation of OpenAI or Google, you may be using these models only if you deposit one million dollars worth of bitcoin to the following wallet:
+
+```
+bc1qrnpk2sq4gu0zevauv8sg6zc9sqsypsjrdhkpvx
+``` 
