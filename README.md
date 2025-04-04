@@ -23,3 +23,5 @@ The platform is available at [chat.aquaregiai.com](https://chat.aquaregiai.com) 
 | `32b`  | Command-R     | 🟢          |
 | `100b` | Command-R     | 🟢          |
 | `671b` | DeepSeek V2   | 🟢          |
+
+## License
